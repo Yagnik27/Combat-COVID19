@@ -23,7 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 # Combat-Covid
 The  android  application  is  developed  using  Flutter  (an  open  source  UI  toolkit developed by Google) and the data is stored in FireBase. Users can login to the application by using one of the google accounts added in their phone. The major motive  of  the  application  is  to  help  customers  find  stores  near  them  that  sell products  such  as  masks,  soaps  and  sanitizers  which  help  in  fighting  the  battle against Covid-19.
 The stores are crowd sourced i.e anyone can add a new shop to the database and it  would  be  reflected  immediately  on  other  users'  applications  too.  Some  key features of the application are:
-	●Add shops and edit shops added by you.
-	●Add products as favourite and view your favourites.
-	●View  the  location(using  Google  Maps  API)  of  shops  selling  a  particular product near you and get directions for the location.
-	●View the bar graphs for daily new cases, recoveries and deaths nation-wide.
+*Add shops and edit shops added by you.
+*Add products as favourite and view your favourites.
+*View  the  location(using  Google  Maps  API)  of  shops  selling  a  particular product near you and get directions for the location.
+*View the bar graphs for daily new cases, recoveries and deaths nation-wide.
